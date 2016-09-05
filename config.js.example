@@ -1,0 +1,16 @@
+var config = {
+    zeph: {
+        host: '',
+        user: '',
+        password: '',
+        database: ''
+    },
+    red: {
+        host: '',
+        user: '',
+        password: '',
+        database: ''
+    }
+}
+
+module.exports = config;

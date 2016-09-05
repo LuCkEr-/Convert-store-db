@@ -1,0 +1,23 @@
+{
+  "name": "convert-store-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuCkEr-/Convert-store-db.git"
+  },
+  "author": "LuCkEr-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuCkEr-/Convert-store-db/issues"
+  },
+  "homepage": "https://github.com/LuCkEr-/Convert-store-db#readme",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "steamid": "^1.1.0"
+  }
+}
